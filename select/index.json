@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "化粧と、",
+  "base_artist": "WhaleDontSleep",
+  "createdAt": "2025-12-23T10:37:27.020042Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "化粧と、 (feat. 青虫)",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_化粧と、_(feat._青虫)_くじら.txt"
+    }
+  ]
+}
